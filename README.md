@@ -106,7 +106,7 @@
   
   * 2021-02-13
   
-    : 댓글 crawling 완료
+    : 댓글 crawling 중 python list limit 문제 발생
   
 * 실거래 데이터와 부동산 기사 데이터를 함께 비교
 
