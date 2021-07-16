@@ -12,7 +12,7 @@
 |   code_for_article_data    |     기사 data를 분석한 코드     |
 |      code_for_compare      |    기사와 부동산 데이터를 함께 분석한 코드    |
 | code_for_estate_trade_data |      부동산 실거래 data를 분석한 코드      |
-|  seoul_estate_trade_data   |             서울 아파트 매매 data             |
+|  seoul_estate_trade_data   |     서울 아파트 매매 data (2006.01~2021.06)   |
 
 
 ###  3. To Do List
